@@ -26,7 +26,7 @@ This project aims to analyze Lyft's driver data to determine the **Lifetime Valu
 
 ## Objectives :dart:
 
-1. **Recommend Driver's Lifetime Value:** Calculate the projected lifetime value of a driver to Lyft. This involves assessing the overall revenue generated from a driver's rides considering expenses and fee structures.
+1. **Calculate Driver's Lifetime Value:** Calculate the projected lifetime value of a driver to Lyft. This involves assessing the overall revenue generated from a driver's rides considering expenses and fee structures.
 
 2. **Identify Key Factors:** Determine the main factors influencing a driver's lifetime value. These could include ride distance, ride duration, prime time, etc.
 
