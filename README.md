@@ -1,4 +1,4 @@
-# Lyft Driver Lifetime Value Project :car: 
+# Lyft Analytics Project :car: 
 
 This project aims to analyze Lyft's driver data to determine the **Lifetime Value** of a driver to Lyft, considering various factors that influence this value. The project utilizes three CSV files, namely `driver_ids.csv`, `ride_ids.csv`, and `ride_timestamps.csv`, which contain relevant data about drivers, their rides, and ride timestamps. The analysis and findings will provide insights into driver behavior, longevity, and value generation.
 
