@@ -38,7 +38,7 @@ This project aims to analyze Lyft's driver data to determine the **Lifetime Valu
 
 ## Assumptions :page_facing_up:
 
-Utilizing the provided Lyft rate card, we assume the following fare components:
+Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/), we assume the following fare components:
 - Base Fare: $2.00
 - Cost per Mile: $1.15
 - Cost per Minute: $0.22
