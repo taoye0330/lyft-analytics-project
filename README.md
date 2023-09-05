@@ -34,9 +34,18 @@ Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/)
 
 7. **Business Recommendations:** Based on insights gained, provide actionable recommendations to Lyft for optimizing driver acquisition, engagement, and retention strategies.
 
+## 📜 Full Python Code
 
-## Conclusion :clipboard:
+You can access the complete R code for the project on GitHub:
+[Lyft Python Code]([https://github.com/taoye0330/marketing-mix-modeling-project/blob/main/Marketing%20Mix%20Modeling.R](https://github.com/taoye0330/lyft-analytics-project/blob/main/lyft-analytics.ipynb)).
 
-This project aims to unravel the factors affecting Lyft driver lifetime value and provide valuable insights for Lyft's business strategy. By understanding what drives driver value and longevity, Lyft can optimize its operations, driver engagement, and overall success. 
+
+## 📢 Feedback & Contributions
+
+Your feedback is invaluable! If you have any questions, suggestions, or contributions, please don't hesitate to reach out. Let's make this a collaborative effort! 🚀
+
+---
+
+Thank you for your interest and support!
 
 Let's dive into the data and discover the road ahead for Lyft! :car:
