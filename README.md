@@ -36,8 +36,9 @@ Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/)
 
 ## 📜 Full Python Code
 
-You can access the complete R code for the project on GitHub:
-[Lyft Python Code]([https://github.com/taoye0330/marketing-mix-modeling-project/blob/main/Marketing%20Mix%20Modeling.R](https://github.com/taoye0330/lyft-analytics-project/blob/main/lyft-analytics.ipynb)).
+You can access the complete code for the project on GitHub:
+[Lyft Python Code](https://github.com/taoye0330/lyft-analytics-project/blob/main/lyft-analytics.ipynb).
+
 
 
 ## 📢 Feedback & Contributions
