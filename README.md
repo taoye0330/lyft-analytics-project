@@ -2,28 +2,6 @@
 
 This project aims to analyze Lyft's driver data to determine the **Lifetime Value** of a driver to Lyft, considering various factors that influence this value. The project utilizes three CSV files, namely `driver_ids.csv`, `ride_ids.csv`, and `ride_timestamps.csv`, which contain relevant data about drivers, their rides, and ride timestamps. The analysis and findings will provide insights into driver behavior, longevity, and value generation.
 
-## Data Overview :clipboard:
-
-### driver_ids.csv
-- **driver_id:** Unique identifier for a driver
-- **driver_onboard_date:** Date on which driver was onboarded
-
-### ride_ids.csv
-- **driver_id:** Unique identifier for a driver
-- **ride_id:** Unique identifier for a completed ride
-- **ride_distance:** Ride distance in meters
-- **ride_duration:** Ride duration in seconds
-- **ride_prime_time:** Prime time applied on the ride
-
-### Ride_timestamps.csv
-- **ride_id:** Unique identifier for a ride
-- **event:** Type of event (requested, accepted, arrived, dropped off)
-- **timestamp:** Time of event
-
-**Assumptions:**
-- All rides occurred in New York.
-- All timestamps are in EDT.
-
 ## Objectives :dart:
 
 1. **Calculate Driver's Lifetime Value:** Calculate the projected lifetime value of a driver to Lyft. This involves assessing the overall revenue generated from a driver's rides considering expenses and fee structures.
@@ -36,15 +14,9 @@ This project aims to analyze Lyft's driver data to determine the **Lifetime Valu
 
 5. **Business Recommendations:** Provide actionable recommendations based on insights derived from the analysis.
 
-## Assumptions :page_facing_up:
+## Lyft Fare Calculation :page_facing_up:
 
-Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/), we assume the following fare components:
-- Base Fare: $2.00
-- Cost per Mile: $1.15
-- Cost per Minute: $0.22
-- Service Fee: $1.75
-- Minimum Fare: $5.00
-- Maximum Fare: $400.00
+Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/)
 
 ## Analysis Steps :chart_with_upwards_trend:
 
@@ -62,14 +34,6 @@ Based on the reasearch on Lyft rate card (https://www.ridester.com/lyft-cost/), 
 
 7. **Business Recommendations:** Based on insights gained, provide actionable recommendations to Lyft for optimizing driver acquisition, engagement, and retention strategies.
 
-## Getting Started :rocket:
-
-To replicate the analysis and findings, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Ensure you have the necessary libraries and packages installed (list them in a `requirements.txt` file).
-3. Place the provided CSV files (`driver_ids.csv`, `ride_ids.csv`, `ride_timestamps.csv`) in a folder named `data`.
-4. Run the analysis scripts in the specified order, as mentioned in the `Analysis Steps` section.
 
 ## Conclusion :clipboard:
 
